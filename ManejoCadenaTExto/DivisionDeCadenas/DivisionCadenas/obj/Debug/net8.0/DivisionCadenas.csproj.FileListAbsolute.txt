@@ -1,0 +1,14 @@
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\DivisionDeCadenas\DivisionCadenas\bin\Debug\net8.0\DivisionCadenas.exe
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\DivisionDeCadenas\DivisionCadenas\bin\Debug\net8.0\DivisionCadenas.deps.json
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\DivisionDeCadenas\DivisionCadenas\bin\Debug\net8.0\DivisionCadenas.runtimeconfig.json
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\DivisionDeCadenas\DivisionCadenas\bin\Debug\net8.0\DivisionCadenas.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\DivisionDeCadenas\DivisionCadenas\bin\Debug\net8.0\DivisionCadenas.pdb
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\DivisionDeCadenas\DivisionCadenas\obj\Debug\net8.0\DivisionCadenas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\DivisionDeCadenas\DivisionCadenas\obj\Debug\net8.0\DivisionCadenas.AssemblyInfoInputs.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\DivisionDeCadenas\DivisionCadenas\obj\Debug\net8.0\DivisionCadenas.AssemblyInfo.cs
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\DivisionDeCadenas\DivisionCadenas\obj\Debug\net8.0\DivisionCadenas.csproj.CoreCompileInputs.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\DivisionDeCadenas\DivisionCadenas\obj\Debug\net8.0\DivisionCadenas.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\DivisionDeCadenas\DivisionCadenas\obj\Debug\net8.0\refint\DivisionCadenas.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\DivisionDeCadenas\DivisionCadenas\obj\Debug\net8.0\DivisionCadenas.pdb
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\DivisionDeCadenas\DivisionCadenas\obj\Debug\net8.0\DivisionCadenas.genruntimeconfig.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\DivisionDeCadenas\DivisionCadenas\obj\Debug\net8.0\ref\DivisionCadenas.dll

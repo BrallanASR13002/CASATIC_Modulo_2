@@ -1,0 +1,14 @@
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\BusquedaDeCadena\bin\Debug\net8.0\BusquedaDeCadena.exe
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\BusquedaDeCadena\bin\Debug\net8.0\BusquedaDeCadena.deps.json
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\BusquedaDeCadena\bin\Debug\net8.0\BusquedaDeCadena.runtimeconfig.json
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\BusquedaDeCadena\bin\Debug\net8.0\BusquedaDeCadena.dll
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\BusquedaDeCadena\bin\Debug\net8.0\BusquedaDeCadena.pdb
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\BusquedaDeCadena\obj\Debug\net8.0\BusquedaDeCadena.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\BusquedaDeCadena\obj\Debug\net8.0\BusquedaDeCadena.AssemblyInfoInputs.cache
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\BusquedaDeCadena\obj\Debug\net8.0\BusquedaDeCadena.AssemblyInfo.cs
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\BusquedaDeCadena\obj\Debug\net8.0\BusquedaDeCadena.csproj.CoreCompileInputs.cache
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\BusquedaDeCadena\obj\Debug\net8.0\BusquedaDeCadena.dll
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\BusquedaDeCadena\obj\Debug\net8.0\refint\BusquedaDeCadena.dll
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\BusquedaDeCadena\obj\Debug\net8.0\BusquedaDeCadena.pdb
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\BusquedaDeCadena\obj\Debug\net8.0\BusquedaDeCadena.genruntimeconfig.cache
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\BusquedaDeCadena\obj\Debug\net8.0\ref\BusquedaDeCadena.dll

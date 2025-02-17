@@ -1,0 +1,14 @@
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ArregloBidimencional\SumaNumerosEnteros\ArregloSuma\bin\Debug\net8.0\ArregloSuma.exe
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ArregloBidimencional\SumaNumerosEnteros\ArregloSuma\bin\Debug\net8.0\ArregloSuma.deps.json
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ArregloBidimencional\SumaNumerosEnteros\ArregloSuma\bin\Debug\net8.0\ArregloSuma.runtimeconfig.json
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ArregloBidimencional\SumaNumerosEnteros\ArregloSuma\bin\Debug\net8.0\ArregloSuma.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ArregloBidimencional\SumaNumerosEnteros\ArregloSuma\bin\Debug\net8.0\ArregloSuma.pdb
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ArregloBidimencional\SumaNumerosEnteros\ArregloSuma\obj\Debug\net8.0\ArregloSuma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ArregloBidimencional\SumaNumerosEnteros\ArregloSuma\obj\Debug\net8.0\ArregloSuma.AssemblyInfoInputs.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ArregloBidimencional\SumaNumerosEnteros\ArregloSuma\obj\Debug\net8.0\ArregloSuma.AssemblyInfo.cs
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ArregloBidimencional\SumaNumerosEnteros\ArregloSuma\obj\Debug\net8.0\ArregloSuma.csproj.CoreCompileInputs.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ArregloBidimencional\SumaNumerosEnteros\ArregloSuma\obj\Debug\net8.0\ArregloSuma.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ArregloBidimencional\SumaNumerosEnteros\ArregloSuma\obj\Debug\net8.0\refint\ArregloSuma.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ArregloBidimencional\SumaNumerosEnteros\ArregloSuma\obj\Debug\net8.0\ArregloSuma.pdb
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ArregloBidimencional\SumaNumerosEnteros\ArregloSuma\obj\Debug\net8.0\ArregloSuma.genruntimeconfig.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ArregloBidimencional\SumaNumerosEnteros\ArregloSuma\obj\Debug\net8.0\ref\ArregloSuma.dll

@@ -1,0 +1,14 @@
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ArregloBidimencional\OperationsWithStrings\bin\Debug\net8.0\OperationsWithStrings.exe
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ArregloBidimencional\OperationsWithStrings\bin\Debug\net8.0\OperationsWithStrings.deps.json
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ArregloBidimencional\OperationsWithStrings\bin\Debug\net8.0\OperationsWithStrings.runtimeconfig.json
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ArregloBidimencional\OperationsWithStrings\bin\Debug\net8.0\OperationsWithStrings.dll
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ArregloBidimencional\OperationsWithStrings\bin\Debug\net8.0\OperationsWithStrings.pdb
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ArregloBidimencional\OperationsWithStrings\obj\Debug\net8.0\OperationsWithStrings.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ArregloBidimencional\OperationsWithStrings\obj\Debug\net8.0\OperationsWithStrings.AssemblyInfoInputs.cache
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ArregloBidimencional\OperationsWithStrings\obj\Debug\net8.0\OperationsWithStrings.AssemblyInfo.cs
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ArregloBidimencional\OperationsWithStrings\obj\Debug\net8.0\OperationsWithStrings.csproj.CoreCompileInputs.cache
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ArregloBidimencional\OperationsWithStrings\obj\Debug\net8.0\OperationsWithStrings.dll
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ArregloBidimencional\OperationsWithStrings\obj\Debug\net8.0\refint\OperationsWithStrings.dll
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ArregloBidimencional\OperationsWithStrings\obj\Debug\net8.0\OperationsWithStrings.pdb
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ArregloBidimencional\OperationsWithStrings\obj\Debug\net8.0\OperationsWithStrings.genruntimeconfig.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ArregloBidimencional\OperationsWithStrings\obj\Debug\net8.0\ref\OperationsWithStrings.dll

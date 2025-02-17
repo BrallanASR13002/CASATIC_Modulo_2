@@ -1,0 +1,14 @@
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\Testing\UnitaryTestExample\bin\Debug\net8.0\UnitaryTestExample.exe
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\Testing\UnitaryTestExample\bin\Debug\net8.0\UnitaryTestExample.deps.json
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\Testing\UnitaryTestExample\bin\Debug\net8.0\UnitaryTestExample.runtimeconfig.json
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\Testing\UnitaryTestExample\bin\Debug\net8.0\UnitaryTestExample.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\Testing\UnitaryTestExample\bin\Debug\net8.0\UnitaryTestExample.pdb
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\Testing\UnitaryTestExample\obj\Debug\net8.0\UnitaryTestExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\Testing\UnitaryTestExample\obj\Debug\net8.0\UnitaryTestExample.AssemblyInfoInputs.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\Testing\UnitaryTestExample\obj\Debug\net8.0\UnitaryTestExample.AssemblyInfo.cs
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\Testing\UnitaryTestExample\obj\Debug\net8.0\UnitaryTestExample.csproj.CoreCompileInputs.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\Testing\UnitaryTestExample\obj\Debug\net8.0\UnitaryTestExample.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\Testing\UnitaryTestExample\obj\Debug\net8.0\refint\UnitaryTestExample.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\Testing\UnitaryTestExample\obj\Debug\net8.0\UnitaryTestExample.pdb
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\Testing\UnitaryTestExample\obj\Debug\net8.0\UnitaryTestExample.genruntimeconfig.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\Testing\UnitaryTestExample\obj\Debug\net8.0\ref\UnitaryTestExample.dll

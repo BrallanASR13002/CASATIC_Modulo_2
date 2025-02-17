@@ -1,0 +1,14 @@
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\ManejoCadenaTexto\bin\Debug\net8.0\ManejoCadenaTexto.exe
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\ManejoCadenaTexto\bin\Debug\net8.0\ManejoCadenaTexto.deps.json
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\ManejoCadenaTexto\bin\Debug\net8.0\ManejoCadenaTexto.runtimeconfig.json
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\ManejoCadenaTexto\bin\Debug\net8.0\ManejoCadenaTexto.dll
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\ManejoCadenaTexto\bin\Debug\net8.0\ManejoCadenaTexto.pdb
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\ManejoCadenaTexto\obj\Debug\net8.0\ManejoCadenaTexto.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\ManejoCadenaTexto\obj\Debug\net8.0\ManejoCadenaTexto.AssemblyInfoInputs.cache
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\ManejoCadenaTexto\obj\Debug\net8.0\ManejoCadenaTexto.AssemblyInfo.cs
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\ManejoCadenaTexto\obj\Debug\net8.0\ManejoCadenaTexto.csproj.CoreCompileInputs.cache
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\ManejoCadenaTexto\obj\Debug\net8.0\ManejoCadenaTexto.dll
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\ManejoCadenaTexto\obj\Debug\net8.0\refint\ManejoCadenaTexto.dll
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\ManejoCadenaTexto\obj\Debug\net8.0\ManejoCadenaTexto.pdb
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\ManejoCadenaTexto\obj\Debug\net8.0\ManejoCadenaTexto.genruntimeconfig.cache
+c:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\ManejoCadenaTExto\ManejoCadenaTexto\obj\Debug\net8.0\ref\ManejoCadenaTexto.dll
