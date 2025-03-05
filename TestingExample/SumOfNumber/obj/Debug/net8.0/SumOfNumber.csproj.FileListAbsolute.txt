@@ -1,0 +1,15 @@
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\TestingExample\SumOfNumber\bin\Debug\net8.0\SumOfNumber.exe
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\TestingExample\SumOfNumber\bin\Debug\net8.0\SumOfNumber.deps.json
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\TestingExample\SumOfNumber\bin\Debug\net8.0\SumOfNumber.runtimeconfig.json
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\TestingExample\SumOfNumber\bin\Debug\net8.0\SumOfNumber.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\TestingExample\SumOfNumber\bin\Debug\net8.0\SumOfNumber.pdb
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\TestingExample\SumOfNumber\obj\Debug\net8.0\SumOfNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\TestingExample\SumOfNumber\obj\Debug\net8.0\SumOfNumber.AssemblyInfoInputs.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\TestingExample\SumOfNumber\obj\Debug\net8.0\SumOfNumber.AssemblyInfo.cs
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\TestingExample\SumOfNumber\obj\Debug\net8.0\SumOfNumber.csproj.CoreCompileInputs.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\TestingExample\SumOfNumber\obj\Debug\net8.0\SumOfNumber.sourcelink.json
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\TestingExample\SumOfNumber\obj\Debug\net8.0\SumOfNumber.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\TestingExample\SumOfNumber\obj\Debug\net8.0\refint\SumOfNumber.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\TestingExample\SumOfNumber\obj\Debug\net8.0\SumOfNumber.pdb
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\TestingExample\SumOfNumber\obj\Debug\net8.0\SumOfNumber.genruntimeconfig.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\TestingExample\SumOfNumber\obj\Debug\net8.0\ref\SumOfNumber.dll
