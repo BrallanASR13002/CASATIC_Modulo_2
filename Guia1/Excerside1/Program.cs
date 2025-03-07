@@ -33,7 +33,7 @@
         int number;
         Print("Ingrese un numero: ");
         string? data = Console.ReadLine();
-        number = Convert.Toint(data);
+        number = int.Parse(data);
         return number;
     }
     public static string Print(string message)
