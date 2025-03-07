@@ -4,6 +4,13 @@
     {
         Print("lectura de un archivo de texto y muestre su contenido línea por línea");
         string path = DataInput("Ingrese la ruta del archivo: ");
+        
+        while (!System.IO.File.Exists(path))
+        {
+            Print("El archivo no existe. Por favor, ingrese una ruta válida.");
+            path = DataInput("Ingrese la ruta del archivo: ");
+        }
+
         string[] lines = System.IO.File.ReadAllLines(path);
         foreach (string line in lines)
         {
