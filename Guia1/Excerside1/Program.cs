@@ -28,22 +28,23 @@
 
         }
     }
+    public static int DataInpunt()
+    {
+        int number;
+        Print("Ingrese un numero: ");
+        string? data = Console.ReadLine();
+        number = Convert.Toint(data);
+        return number;
+    }
+    public static string Print(string message)
+    {
+        ConsoleColor color = Console.ForegroundColor;
+        Console.ForegroundColor = ConsoleColor.DarkGreen;
+        Console.WriteLine("-----------------------------------------------------------");
+        Console.WriteLine(message);
+        Console.WriteLine("-----------------------------------------------------------");
+        Console.ForegroundColor = color;
+        return message;
+    }
 }
-public static int DataInpunt()
-{
-    int number;
-    Print("Ingrese un numero: ");
-    string? data = Console.ReadLine();
-    number = Convert.Toint(data);
-    return number;
-}
-public static string Print(string message)
-{
-    ConsoleColor color = Console.ForegroundColor;
-    Console.ForegroundColor = ConsoleColor.DarkGreen;
-    Console.WriteLine("-----------------------------------------------------------");
-    Console.WriteLine(message);
-    Console.WriteLine("-----------------------------------------------------------");
-    Console.ForegroundColor = color;
-    return message;
-}
+
