@@ -3,7 +3,17 @@
     private static void Main(string[] args)
     {
         Print("división entre cero mediante bloques try-catch.");
-        
+        a = DataInpunt("Ingrese el dividendo: ");
+        b = DataInpunt("Ingrese el divisor: ");
+        try
+        {
+            double result = a / b;
+            Print($"El resultado de la división es: {result}");
+        }
+        catch (DivideByZeroException)
+        {
+            Print("No se puede dividir entre cero.");
+        }
         
     }
     public static double DataInpunt()
