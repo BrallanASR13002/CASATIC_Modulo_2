@@ -1,0 +1,42 @@
+el concepto de interfaz surge para dar solución al
+problema de la herencia múltiple.
+puesto que la herencia solo puede tener una clase base
+las interfaces solo contienen metodos y atributos
+abstractos.
+Dichas interfaces sirver para estandarizar metodos
+puesto que facilita la reutilización de código.
+por nomenclatura para toda interfaz, se debe anteponer
+una I delante del nombre de la clase.
+las interfaces tambien pueden implementar otras
+interfaces.
+con las interfaces no es necesario definir los
+niveles de acceso de propiedades ni
+de los metodos, puesto que todo es
+publico, asi como tambien se definen
+sin valor de retorno y sin llaves dichos
+metodos.
+la forma en que se produce la herencia multiple
+con interfaces, es definiendo una interfaz padre,
+luego una interfaz derivada que herede de la interfaz
+base y crear una clase que implemente la interfaz
+derivada, y como al momento de suscribirse a
+la interfaz, la clase que se suscribe esta obligada 
+a implementar los elementos de la interfaz.
+es por eso que la clase que se suscribe a la 
+interfaz derivada, debe cumplir los contratos tanto de 
+con la interfaz derivada como el que tiene la 
+interfaz derivada con la interfaz base
+
+
+
+    public double Slide1 { get ; set; }
+    public double Slide2 { get ; set; }
+    public double Area { get; set; }
+
+    public double AreaCalculate()
+    {
+        Area=Slide1*Slide2;
+        return Area;
+    }
+
+SalesProductManagement
