@@ -2,13 +2,17 @@
 {
     private static void Main(string[] args)
     {
-
-
+        Print("división entre cero mediante bloques try-catch.");
+        
+        
     }
-    public static string DataInput(string prompt)
+    public static double DataInpunt()
     {
-        Print(prompt);
-        return Console.ReadLine();
+        double number;
+        string data;
+        data = Console.ReadLine();
+        number = Convert.ToDouble(data);
+        return number;
     }
 
     public static string Print(string message)
