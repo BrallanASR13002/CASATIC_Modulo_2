@@ -24,4 +24,14 @@
             Console.ForegroundColor = color;
             return message;
         }
+          public static int CountWords(string data)
+    {
+        if (string.IsNullOrWhiteSpace(data))
+        {
+            return 0;
+        }
+
+        string[] words = data.Split(' ', StringSplitOptions.RemoveEmptyEntries);
+        return words.Length;
+    }
 }
