@@ -2,6 +2,8 @@
 {
     private static void Main(string[] args)
     {
+        Print("guardado un registro de usuarios en un archivo binario.");
+        
 
     }
     public static string DataInput(string prompt)
