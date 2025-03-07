@@ -21,7 +21,7 @@
         {
             for (int j = 0; j < columnas; j++)
             {
-                Print(matriz[i, j] + " ");
+                Console.Write(matriz[i, j] + " ");
             }
             Console.WriteLine();
         }
@@ -30,7 +30,7 @@
         {
             for (int j = 0; j < filas; j++)
             {
-                Print(matriz[j, i] + " ");
+                Console.Write(matriz[j, i] + " ");
             }
             Console.WriteLine();
         }
