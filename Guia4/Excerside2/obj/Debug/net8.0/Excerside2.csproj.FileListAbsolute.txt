@@ -1,0 +1,15 @@
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\Guia4\Excerside2\obj\Debug\net8.0\Excerside2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\Guia4\Excerside2\obj\Debug\net8.0\Excerside2.AssemblyInfoInputs.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\Guia4\Excerside2\obj\Debug\net8.0\Excerside2.AssemblyInfo.cs
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\Guia4\Excerside2\obj\Debug\net8.0\Excerside2.csproj.CoreCompileInputs.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\Guia4\Excerside2\obj\Debug\net8.0\Excerside2.sourcelink.json
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\Guia4\Excerside2\bin\Debug\net8.0\Excerside2.exe
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\Guia4\Excerside2\bin\Debug\net8.0\Excerside2.deps.json
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\Guia4\Excerside2\bin\Debug\net8.0\Excerside2.runtimeconfig.json
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\Guia4\Excerside2\bin\Debug\net8.0\Excerside2.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\Guia4\Excerside2\bin\Debug\net8.0\Excerside2.pdb
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\Guia4\Excerside2\obj\Debug\net8.0\Excerside2.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\Guia4\Excerside2\obj\Debug\net8.0\refint\Excerside2.dll
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\Guia4\Excerside2\obj\Debug\net8.0\Excerside2.pdb
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\Guia4\Excerside2\obj\Debug\net8.0\Excerside2.genruntimeconfig.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\Guia4\Excerside2\obj\Debug\net8.0\ref\Excerside2.dll
