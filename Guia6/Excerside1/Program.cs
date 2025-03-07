@@ -2,6 +2,7 @@
 {
     private static void Main(string[] args)
     {
+        Print("Recursividad de funciones: cálculo de un Factorial de un número");
         
     }
         public static int DataInput()
