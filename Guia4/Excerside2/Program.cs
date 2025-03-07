@@ -2,12 +2,26 @@
 {
     private static void Main(string[] args)
     {
-        
+        Print("excepción personalizada si un usuario ingresa un dato no válido.");
     }
+
     public static string DataInput(string prompt)
     {
         Print(prompt);
-        return Console.ReadLine();
+        string input = string.Empty;
+        try
+        {
+            input = Console.ReadLine();
+            if (string.IsNullOrWhiteSpace(input))
+            {
+                throw new ArgumentException("El dato ingresado no es válido.");
+            }
+        }
+        catch (Exception ex)
+        {
+            Print($"Error: {ex.Message}");
+        }
+        return input;
     }
 
     public static string Print(string message)
