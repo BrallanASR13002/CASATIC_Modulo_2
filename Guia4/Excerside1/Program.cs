@@ -2,9 +2,10 @@
 {
     private static void Main(string[] args)
     {
-        Print("división entre cero mediante bloques try-catch.");
-        a = DataInpunt("Ingrese el dividendo: ");
-        b = DataInpunt("Ingrese el divisor: ");
+        Print("División entre cero mediante bloques try-catch.");
+        double a = DataInpunt("Ingrese el primer número:");
+        double b = DataInpunt("Ingrese el segundo número (no puede ser cero):");
+        
         try
         {
             double result = a / b;
@@ -14,15 +15,25 @@
         {
             Print("No se puede dividir entre cero.");
         }
-        
     }
-    public static double DataInpunt()
+
+    public static double DataInpunt(string prompt)
     {
         double number;
         string data;
-        data = Console.ReadLine();
-        number = Convert.ToDouble(data);
-        return number;
+        while (true)
+        {
+            Print(prompt);
+            data = Console.ReadLine();
+            if (double.TryParse(data, out number))
+            {
+                return number;
+            }
+            else
+            {
+                Print("Entrada no válida. Por favor, ingrese un número.");
+            }
+        }
     }
 
     public static string Print(string message)
