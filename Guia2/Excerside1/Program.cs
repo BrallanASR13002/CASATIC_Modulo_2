@@ -10,7 +10,7 @@
      public static string DataInput()
         {
             string data;
-            Print("Ingrese un numero: ");
+            Print("Ingrese la frase: ");
             data = Console.ReadLine();
             return data;
         }
