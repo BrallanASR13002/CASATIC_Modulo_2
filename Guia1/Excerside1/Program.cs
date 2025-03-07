@@ -32,8 +32,7 @@
     {
         int number;
         Print("Ingrese un numero: ");
-        string? data = Console.ReadLine();
-        number = int.Parse(data);
+        number = int.Parse(Console.ReadLine());
         return number;
     }
     public static string Print(string message)
