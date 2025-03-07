@@ -3,7 +3,7 @@
     private static void Main(string[] args)
     {
         Print("Recursividad de funciones: cálculo de un Factorial de un número");
-        
+        int number = DataInput();
     }
         public static int DataInput()
     {
