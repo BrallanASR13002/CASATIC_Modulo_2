@@ -28,11 +28,17 @@
 
         }
     }
-    public static int DataInpunt()
+    public static int DataInput()
     {
         int number;
+        string data;
         Print("Ingrese un numero: ");
-        number = int.Parse(Console.ReadLine());
+        data = Console.ReadLine();
+        while (!int.TryParse(data, out number))
+        {
+            Print("Ingrese un numero valido: ");
+            data = Console.ReadLine();
+        }
         return number;
     }
     public static string Print(string message)
