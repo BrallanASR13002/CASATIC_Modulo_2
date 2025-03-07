@@ -2,14 +2,13 @@
 {
     private static void Main(string[] args)
     {
-
-    }
-    public static string DataInput()
-    {
-        string data;
-        Print("Ingrese la frase: ");
-        data = Console.ReadLine();
-        return data;
+        Print("lectura de un archivo de texto y muestre su contenido línea por línea");
+        string path = DataInput("Ingrese la ruta del archivo: ");
+        string[] lines = System.IO.File.ReadAllLines(path);
+        foreach (string line in lines)
+        {
+            Console.WriteLine(line);
+        }
     }
 
     public static string DataInput(string prompt)
