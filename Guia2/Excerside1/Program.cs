@@ -2,19 +2,17 @@
 {
     private static void Main(string[] args)
     {
+        string data;
+        data = DataInput();
+        Print("Conteo del numero de palabras en una cadena");
+        Print($"La cantidad de palabras en la cadena es: {CountWords(data)}");
     }
-     public static int DataInput()
+     public static string DataInput()
         {
-            int number;
             string data;
             Print("Ingrese un numero: ");
             data = Console.ReadLine();
-            while (!int.TryParse(data, out number))
-            {
-                Print("Ingrese un numero valido: ");
-                data = Console.ReadLine();
-            }
-            return number;
+            return data;
         }
         public static string Print(string message)
         {
