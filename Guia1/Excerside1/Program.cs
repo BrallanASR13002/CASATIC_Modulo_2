@@ -4,11 +4,9 @@
     {
         Print("matriz de números enteros y calcule la suma de cada fila");
         Print("Ingrese el número de filas de la matriz");
-        int filas = 0;
-        filas.DataInput();
+        int filas=DataInput();
         Print("Ingrese el número de columnas de la matriz");
-        int columnas = 0;
-        columnas = DataInput();
+        int columnas=DataInput();
         int[,] matriz = new int[filas, columnas];
         for (int i = 0; i < filas; i++)
         {
