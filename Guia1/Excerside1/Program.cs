@@ -12,6 +12,7 @@
         {
             for (int j = 0; j < columnas; j++)
             {
+                Print($"Ingrese el valor de la posición {i + 1} {j + 1}");
                 matriz[i, j] = DataInput();
             }
         }
