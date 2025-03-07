@@ -3,6 +3,8 @@
     private static void Main(string[] args)
     {
         Print("excepción personalizada si un usuario ingresa un dato no válido.");
+        string example = DataInput();
+        Print(example);
     }
 
     public static string DataInput(string prompt)
