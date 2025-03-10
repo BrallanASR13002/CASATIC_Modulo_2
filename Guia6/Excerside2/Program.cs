@@ -8,7 +8,13 @@
         int number2 = Input01();
         int result = Suma(number1,number2);
         Print("El resultado es: ");
-        Console.WriteLine(result);
+        Print(result.ToString()); 
+        Print("Suma de numeros reales");
+        double number3 = Input02();
+        double number4 = Input02();
+        double result2 = Suma(number3,number4);
+        Print("El resultado es: ");
+        Print(result2.ToString());
 
     }
     public static double Input02()
@@ -37,16 +43,15 @@
         }
         return number;
     }
-    public static void Print(string message)
+    public static string Print(string message)
     {
         ConsoleColor color = Console.ForegroundColor;
         Console.ForegroundColor = ConsoleColor.DarkGreen;
-        Console.WriteLine("Presione Enter para continuar ...");
-        Console.ReadLine();
         Console.WriteLine("-----------------------------------------------------------");
         Console.WriteLine(message);
         Console.WriteLine("-----------------------------------------------------------");
         Console.ForegroundColor = color;
+        return message;
     }
     public static int Suma(int number1, int number2)
     {
