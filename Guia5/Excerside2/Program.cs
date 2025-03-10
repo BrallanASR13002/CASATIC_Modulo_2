@@ -1,6 +1,9 @@
-﻿Internal class Program
+﻿using System.Runtime.CompilerServices;
+[assembly: InternalsVisibleTo("Excerside2.Tests")]
+
+internal class Program
 {
-    private static void Main(string[] args)
+    public static void Main(string[] args)
     {
         Print("Ejemplo de pruebas unitarias en una operación matemática");
         Print("División de dos numeros enteros");
@@ -22,21 +25,24 @@
         }
         return number;
     }
-    public static string Print(string message)
+    public static void Print(string message)
     {
         ConsoleColor color = Console.ForegroundColor;
         Console.ForegroundColor = ConsoleColor.DarkGreen;
         Console.WriteLine("Presione Enter para continuar ...");
-        Console.ReadKey();
+        Console.ReadLine();
         Console.WriteLine("-----------------------------------------------------------");
         Console.WriteLine(message);
         Console.WriteLine("-----------------------------------------------------------");
         Console.ForegroundColor = color;
-        return message;
     }
     public static double Division(double number1, double number2)
     {
-        double div = number1/number2;  
-        return div;
+        if (number2 == 0)
+        {
+            Console.WriteLine("Error: No se puede dividir por cero.");
+            return double.NaN; // Retorna un valor especial indicando un error
+        }
+        return number1 / number2;
     }
 }
