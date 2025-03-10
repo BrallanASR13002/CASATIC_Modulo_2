@@ -4,6 +4,9 @@
     {
         Print("Ejemplo de pruebas unitarias en una operación matemática");
         Print("División de dos numeros enteros");
+        int number1 = DataInput();
+        int number2 = DataInput();
+        Division(number1, number2);
     }
     public static int DataInput()
     {
@@ -32,6 +35,7 @@
     }
     public static int Division(int number1, int number2)
     {
-        int div = number1/number2;
+        int div = number1/number2;  
+        return div;
     }
 }
