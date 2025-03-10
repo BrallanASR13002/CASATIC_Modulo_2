@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Brallan Sanchez\\Documents\\CASATIC\\Modulo2\\Guia5\\Excerside1\\Excerside1.csproj",
+      "projectUniqueName": "C:\\Users\\Brallan Sanchez\\Documents\\CASATIC\\Modulo2\\Guia4\\Excerside1\\Excerside1.csproj",
       "projectName": "Excerside1",
-      "projectPath": "C:\\Users\\Brallan Sanchez\\Documents\\CASATIC\\Modulo2\\Guia5\\Excerside1\\Excerside1.csproj",
+      "projectPath": "C:\\Users\\Brallan Sanchez\\Documents\\CASATIC\\Modulo2\\Guia4\\Excerside1\\Excerside1.csproj",
       "packagesPath": "C:\\Users\\Brallan Sanchez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Brallan Sanchez\\Documents\\CASATIC\\Modulo2\\Guia5\\Excerside1\\obj\\",
+      "outputPath": "C:\\Users\\Brallan Sanchez\\Documents\\CASATIC\\Modulo2\\Guia4\\Excerside1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Brallan Sanchez\\AppData\\Roaming\\NuGet\\NuGet.Config"
