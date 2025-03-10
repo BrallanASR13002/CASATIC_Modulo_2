@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Excerside2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59020a910b764e2fbfe14ff7ed4995606abee5ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8227b900028ad01a49bc9764c11efb83d60c219e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Excerside2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Excerside2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
