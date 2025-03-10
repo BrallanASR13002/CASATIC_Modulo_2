@@ -1,7 +1,14 @@
 ﻿internal class Program
 {
     private static void Main(string[] args)
-    {
+    { 
+        Print("Sobrecarga de metodos: ");
+        Print("Suma de numeros enteros: ");
+        int number1 = DataInput();
+        int number2 = DataInput();
+        int result = Suma(number1,number2);
+        Print("El resultado es: ");
+        Print(result);
 
     }
     public static double DataInput()
