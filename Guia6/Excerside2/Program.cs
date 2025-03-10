@@ -17,6 +17,19 @@
         }
         return number;
     }
+        public static int DataInput()
+    {
+        int number;
+        string data;
+        Print("Ingrese un numero: ");
+        data = Console.ReadLine();
+        while (!int.TryParse(data, out number) || number < 0)
+        {
+            Print("Ingrese un número válido (entero positivo o cero): ");
+            data = Console.ReadLine();
+        }
+        return number;
+    }
     public static void Print(string message)
     {
         ConsoleColor color = Console.ForegroundColor;
