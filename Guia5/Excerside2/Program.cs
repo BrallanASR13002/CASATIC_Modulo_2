@@ -30,4 +30,8 @@
         Console.ForegroundColor = color;
         return message;
     }
+    public static int Division(int number1, int number2)
+    {
+        int div = number1/number2;
+    }
 }
