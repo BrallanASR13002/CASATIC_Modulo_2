@@ -19,15 +19,15 @@
         return number;
     }
     public static string Print(string message)
-    {   
+    {
         ConsoleColor color = Console.ForegroundColor;
         Console.ForegroundColor = ConsoleColor.DarkGreen;
+        Console.WriteLine("Presione Enter para continuar ...");
+        Console.ReadKey();
         Console.WriteLine("-----------------------------------------------------------");
         Console.WriteLine(message);
+        Console.WriteLine("-----------------------------------------------------------");
         Console.ForegroundColor = color;
-        return message; 
-        Console.WriteLine("Presione Enter para continuar ...");
-        Console.ReadKey(); 
-        Console.Clear();
+        return message;
     }
 }
