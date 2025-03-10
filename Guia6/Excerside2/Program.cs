@@ -4,8 +4,8 @@
     { 
         Print("Sobrecarga de metodos: ");
         Print("Suma de numeros enteros: ");
-        int number1 = DataInput();
-        int number2 = DataInput();
+        int number1 = Input01();
+        int number2 = Input01();
         int result = Suma(number1,number2);
         Print("El resultado es: ");
         Print(result);
