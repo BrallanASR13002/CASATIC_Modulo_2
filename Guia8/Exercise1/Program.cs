@@ -21,7 +21,8 @@ internal class Program
     /// function region
     /// </summary>
     /// <returns>none</returns>
-    #region  
+    #region   
+    //input function for convert a string input at integer output
     public static int Input()
     {
         string data;
