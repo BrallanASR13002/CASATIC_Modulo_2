@@ -1,36 +1,36 @@
-﻿internal class Program
-{   //global vars
+﻿using System;
+
+internal class Program
+{   
+    // Variable global para almacenar la entrada
     static string input = "";
+
     private static void Main(string[] args)
     {
         Print("Documentation example");
-        //assign a new data at input var
-        input = Input();
-        int integerInput = Convert(input);
-        Print(integerInput.ToString());
-    }
-    public static string Input()
-    {
 
-        string data;
-        Print("Enter a data: ");
-        data = Console.ReadLine();
-        return data;
+        // Asignar nuevo dato a la variable input
+        input = Input().ToString(); // Convertimos a string para mantener compatibilidad
+        Print("User input: " + input);
     }
-    public static int Convert(string data)
-    {
+
+    public static int Input()
+    {   
+        string data;
         int number;
+        
         while (true)
         {
-            Print(data);
+            Print("Enter a number:");  // Mensaje fijo para solicitar entrada
             data = Console.ReadLine();
+
             if (int.TryParse(data, out number))
             {
                 return number;
             }
             else
             {
-                Print("Invalid entry. Please enter a number.");
+                Print("Invalid entry. Please enter a valid number.");
             }
         }
     }
@@ -44,5 +44,4 @@
         Console.WriteLine("-----------------------------------------------------------");
         Console.ForegroundColor = color;
     }
-
 }
