@@ -8,7 +8,7 @@
         int number2 = Input01();
         int result = Suma(number1,number2);
         Print("El resultado es: ");
-        Print(result);
+        Console.WriteLine(result);
 
     }
     public static double Input02()
