@@ -1,24 +1,32 @@
 ﻿using System;
 
 internal class Program
-{   
-    // Variable global para almacenar la entrada
+{
+    // Global variable to store the input
     static string input = "";
-
+    /// <summary>
+    /// static method Main
+    /// </summary>
+    /// <param name="args">Flow the program</param>
     private static void Main(string[] args)
     {
         Print("Documentation example");
 
-        // Asignar nuevo dato a la variable input
-        input = Input().ToString(); // Convertimos a string para mantener compatibilidad
+        // Assign new data to the input variable and
+        //We convert to string to maintain compatibility
+        input = Input().ToString();
         Print("User input: " + input);
-    }
-
+    } 
+    /// <summary>
+    /// function region
+    /// </summary>
+    /// <returns>none</returns>
+    #region  
     public static int Input()
-    {   
+    {
         string data;
         int number;
-        
+
         while (true)
         {
             Print("Enter a number:");  // Mensaje fijo para solicitar entrada
@@ -34,7 +42,10 @@ internal class Program
             }
         }
     }
-
+/// <summary>
+/// Console Print in green color
+/// </summary>
+/// <param name="message">Terminal Output</param>
     public static void Print(string message)
     {
         ConsoleColor color = Console.ForegroundColor;
@@ -44,4 +55,5 @@ internal class Program
         Console.WriteLine("-----------------------------------------------------------");
         Console.ForegroundColor = color;
     }
+    #endregion
 }
