@@ -39,4 +39,8 @@
         Console.ForegroundColor = color;
         return message;
     }
+    public static int Division()
+    {
+        
+    }
 }
