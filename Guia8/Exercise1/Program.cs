@@ -1,10 +1,11 @@
 ﻿internal class Program
-{
+{   //global vars
+    static string input = "";
     private static void Main(string[] args)
     {
         Print("Documentation example");
-        //local vars
-        string input = Input();
+        //assign a new data at input var
+        input = Input();
         int integerInput = Convert(input);
         Print(integerInput.ToString());
     }
