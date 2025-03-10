@@ -17,7 +17,7 @@
         }
         return number;
     }
-        public static int DataInput()
+    public static int DataInput()
     {
         int number;
         string data;
@@ -40,5 +40,15 @@
         Console.WriteLine(message);
         Console.WriteLine("-----------------------------------------------------------");
         Console.ForegroundColor = color;
+    }
+    public static int Suma(int number1, int number2)
+    {
+        int suma = number1+number2;
+        return suma;
+    }
+        public static double Suma(double number3, double number4)
+    {
+        double suma = number3+number4;
+        return suma;
     }
 }
