@@ -1,0 +1,5 @@
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\Guia6\Excerside2\obj\Debug\net8.0\Excerside2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\Guia6\Excerside2\obj\Debug\net8.0\Excerside2.AssemblyInfoInputs.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\Guia6\Excerside2\obj\Debug\net8.0\Excerside2.AssemblyInfo.cs
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\Guia6\Excerside2\obj\Debug\net8.0\Excerside2.csproj.CoreCompileInputs.cache
+C:\Users\Brallan Sanchez\Documents\CASATIC\Modulo2\Guia6\Excerside2\obj\Debug\net8.0\Excerside2.sourcelink.json

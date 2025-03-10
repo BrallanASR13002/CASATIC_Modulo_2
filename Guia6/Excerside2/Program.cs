@@ -11,7 +11,7 @@
         Print(result);
 
     }
-    public static double DataInput()
+    public static double Input02()
     {
         double number;
         string data;
@@ -24,7 +24,7 @@
         }
         return number;
     }
-    public static int DataInput()
+    public static int Input01()
     {
         int number;
         string data;
