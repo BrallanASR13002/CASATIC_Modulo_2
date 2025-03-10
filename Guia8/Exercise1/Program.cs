@@ -14,7 +14,8 @@ internal class Program
 
         // Assign new data to the input variable and
         //We convert to string to maintain compatibility
-        input = Input().ToString();
+        input = Input().ToString(); 
+        //print in terminal, the data entries
         Print("User input: " + input);
     } 
     /// <summary>
